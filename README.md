@@ -16,4 +16,4 @@ Website : <a href="https://heyko.fr/">heyko.fr</a>
         <img src="https://img.shields.io/discord/655099662424080384?label=chat&logo=discord"/>
     </a>
   </p>
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=nicolasito1411)](https://github.com/nicolasito1411/github-readme-stats)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=nicolasito1411&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=35,50A0E8,7CD8FF)](https://github.com/nicolasito1411/github-readme-stats)
