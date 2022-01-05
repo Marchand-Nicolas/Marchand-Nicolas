@@ -16,3 +16,5 @@ Website : <a href="https://heyko.fr/">heyko.fr</a>
         <img src="https://img.shields.io/discord/655099662424080384?label=chat&logo=discord"/>
     </a>
   </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasito1411&hide=javascript,html)](https://github.com/nicolasito1411/github-readme-stats)
