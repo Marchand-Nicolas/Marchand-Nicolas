@@ -16,8 +16,7 @@ Website : <a href="https://heyko.fr/">heyko.fr</a>
         <img src="https://img.shields.io/discord/655099662424080384?label=chat&logo=discord"/>
     </a>
 </p>
-<center style="width:fit-content;margin:auto;display:block;">
 
-[ ![Stats](https://github-readme-stats.vercel.app/api?username=nicolasito1411&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=35,50A0E8,7CD8FF&hide_border=true&count_private=true)](https://github.com/nicolasito1411/github-readme-stats)
-
-</center>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasito1411&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=35,50A0E8,7CD8FF&hide_border=true&count_private=true" >
+</p>
