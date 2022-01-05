@@ -17,4 +17,4 @@ Website : <a href="https://heyko.fr/">heyko.fr</a>
     </a>
 </p>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=nicolasito1411&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=35,50A0E8,7CD8FF)](https://github.com/nicolasito1411/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=nicolasito1411&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=35,50A0E8,7CD8FF&hide_border=true)](https://github.com/nicolasito1411/github-readme-stats)
