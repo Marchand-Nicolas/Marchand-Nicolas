@@ -15,6 +15,7 @@ Website : <a href="https://heyko.fr/">heyko.fr</a>
     <a href="https://discord.gg/4Qk5kBT9UX" alt="discord">
         <img src="https://img.shields.io/discord/655099662424080384?label=chat&logo=discord"/>
     </a>
+  <a href="https://www.codefactor.io/repository/github/heyko-studio/heyko.fr"><img src="https://www.codefactor.io/repository/github/heyko-studio/heyko.fr/badge?s=f070eb6465e93f3e8f483111883e8538c66d3bc8" alt="CodeFactor" /></a>
 </p>
 
 <p align="center">
